@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/Desktop/Detect-Malicious-Command-Line-Behavior" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/Fwaf-Machine-Learning-driven-Web-Application-Firewall" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/Machine-Learning-Web-Application-Firewall-and-Dataset" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/SeqGAN" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/cb-testing" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/cgcef-verify" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/pdf2word" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/seqGAN_pytorch" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/seqgan-text-tensorflow" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/waf-benchmark" vcs="Git" />
+    <mapping directory="$USER_HOME$/Desktop/waf-brain" vcs="Git" />
+  </component>
+</project>
